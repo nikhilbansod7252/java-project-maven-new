@@ -116,7 +116,7 @@
                 <div class="card-body">
                     <h2 class="name">Loki</h2>
                     <h6 class="des">Lorem sri sit consectetur elit.</h6>
-                    <button class="watchlist-btn">add tffo watchlist</button>
+                    <button class="watchlist-btn">addddd tffo watchlist</button>
                 </div>
             </div>
             <div class="card">
